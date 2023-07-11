@@ -1,7 +1,9 @@
 
 NEKA의 스터디 자료를 올리는 공간입니다.
 
-## Curriculum
+## 1기 Curriculum
+
+<B> 목표 : KoBERT를 이용한 Keyword Extration(NER) 모델 만들기 </B> 
 
 * 방학 (스터디)
   * 1주차 : ML/DS에서 사용하는 라이브러리 ([바로가기](https://github.com/gachonNEKA/studynote/blob/main/lecture/NEKA_1%EC%A3%BC%EC%B0%A8.pdf))
