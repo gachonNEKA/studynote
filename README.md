@@ -10,7 +10,7 @@ NEKA의 스터디 자료를 올리는 공간입니다.
   * 2주차 : Perceptron/MLP ([바로가기](https://github.com/gachonNEKA/studynote/blob/main/lecture/NEKA%202%EC%A3%BC%EC%B0%A8.pdf))
   * 3주차 : CNN & RNN & LSTM ([바로가기](https://github.com/gachonNEKA/studynote/blob/main/lecture/NEKA%203%EC%A3%BC%EC%B0%A8.pdf))
   * 4주차 : Transformer & BERT ([바로가기](https://github.com/gachonNEKA/studynote/blob/main/lecture/NEKA%204%EC%A3%BC%EC%B0%A8.pdf))
-  * 5주차 : Training & Evaluation ([바로가기]())
+  * 5주차 : Training & Evaluation ([바로가기](https://github.com/gachonNEKA/studynote/blob/main/lecture/NEKA%205%EC%A3%BC%EC%B0%A8.pdf))
   * 6주차 : NER이란 무엇인가 & NER에서 쓰이는 기초 DS 개념들 (Decision Tree, SVM) ([바로가기]())
     
 * 2학기 (연구 진행)
